@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jarvis_ABO</string>
+    <string name="location_permission_denied">LOCATION PERMISSION ERROR</string>
+    <string name="permission_required_toast">Permission REQUIRED</string>
+    <string name="permission_rationale_location">Cannot get RATIONAL LOCATION</string>
+    <string name="map_not_ready">Map NOT READY</string>
+    <string name="map_view_activity">Map View</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBaFapGPWoLBIgn90xzEA7S1qrd7yiPlAg</string>
+</resources>
